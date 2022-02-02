@@ -20,7 +20,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <lombok.version>1.18.10</lombok.version>
-        <postgres.version>42.2.9</postgres.version>
+        <postgres.version>42.2.25</postgres.version>
         <h2.version>1.4.200</h2.version>
         <apache.commons.collections>4.4</apache.commons.collections>
     </properties>
